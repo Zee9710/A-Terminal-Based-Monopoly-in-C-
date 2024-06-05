@@ -1,1 +1,3 @@
 # A-Terminal-Based-Monopoly-in-C-
+Project for Object Oriented Programming Course
+Despite its current limitations, such as the absence of features like mortgages, building houses and auction, the Monopoly game I developed maintains all other aspects of the object-oriented paradigm. Through this project, I focused on implementing fundamental principles such as encapsulation, inheritance, and polymorphism, ensuring that the core structure of the game aligns with these principles. While there's room for improvement, this project serves as a solid foundation for further development and enhancement.
